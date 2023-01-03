@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div>
-        <Image className='w-full h-1/6' src="/banner-d.jpg" alt="" width={1500} height={50} />
+        <Image className='w-full h-1/6' src="/banner-f.jpg" alt="" width={1500} height={50} />
       </div>
       <section className="text-gray-600 body-font">
         <div className="container px-5 py-24 mx-auto">
